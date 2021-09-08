@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To-Do List</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="container">
+        <h1>To-Do List!</h1>
+        <small id="error">Enter an item on the list first!</small>
+        <form id ="wrapper">
+            <input type="text" placeholder="Add a task" id = "userValue">
+            <button type = "submit" id = "submit">Submit</button>
+            <button type = "reset" id = "clear">Clear List</button>
+        </form>   
+    </div>
+    <div id="container-list">
+        <ol id="list"></ol> 
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
