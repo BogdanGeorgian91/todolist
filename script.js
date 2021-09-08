@@ -51,7 +51,7 @@ document.getElementById('submit').addEventListener('click', function(e) {
         list.appendChild(xbtn);
         list.appendChild(dbtn);
         list.appendChild(lineBreak);
-        item = "";
+        document.getElementById('userValue').value = "";
     }
 });
 
