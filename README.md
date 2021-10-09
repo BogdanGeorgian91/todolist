@@ -1,6 +1,7 @@
 # todolist
+You can see the project live here: https://simple-todolist01.netlify.app/
 
-My first JavaScript focused website. 
+It's my first JavaScript focused website. 
 I didn't know at the time but it turns out it's one of the most common projects chosen by beginners to built. Nevertheless, it was a stepping stone for me, as a beginner, to build it without following a tutorial.
 
 ![alt text](https://raw.githubusercontent.com/BogdanGeorgian91/todolist/main/todoproject.JPG)
