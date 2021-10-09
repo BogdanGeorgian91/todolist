@@ -1,7 +1,8 @@
 # todolist
 You can see the project live here: https://simple-todolist01.netlify.app/
 
-It's my second completed project and I've focused on JavaScript functionality. Deployed on 7th of September 2021.
+It's my second completed project and I've focused on JavaScript functionality. <br/>
+Deployed on 7th of September 2021. <br/>
 I didn't know at the time but it turns out it's one of the most common projects chosen by beginners to built. Nevertheless, it was a stepping stone for me, as a beginner, to build it without following a tutorial.
 
 Video of the user flow:
