@@ -8,8 +8,6 @@ Video of the user flow:
 
 https://user-images.githubusercontent.com/85880721/136656199-5f825c28-13c9-44c5-8359-48791bfa2d16.mp4
 
-![alt text](https://raw.githubusercontent.com/BogdanGeorgian91/todolist/main/todoproject.JPG)
-
 Functionalities go like this:
 
 - if you click "Submit" without having a task written in the box, an error message will appear in red saying "Add a task first";
